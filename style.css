@@ -25,6 +25,7 @@ h1{
 	font-style: italic;
 	font-size: 20px;
 }
+
 #Quote_Author{
 	font-style: italic;
 	text-align: right;
@@ -32,8 +33,19 @@ h1{
 }
 #Link1{
 	font-size: 25px;
+	font-weight: bold;
 }
 #Link2{
 	font-size: 25px;
+	font-weight: bold;
+}
+
+#Bio_title{
+	font-size: 40px;
+	font-weight: bold;
+}
+
+#Bio_story{
+	font-size: 20px;
 }
 
